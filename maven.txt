@@ -3,5 +3,5 @@ and generating package by giving command
 mvn packagefgtygt
 demomnstrating github webhook
 
-nnjjjbChecking jenkins trigger for github
+g jenkins trigger for github
 trigger
