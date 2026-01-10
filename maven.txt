@@ -1,7 +1,7 @@
  imp implenting maven project
 and generating package by giving command
 mvn packagefgtygt
-demomnstrating github webhook
+demomnstrating github webhook hook
 jenkins
  jenkins trigger for github
 trigger
