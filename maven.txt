@@ -6,3 +6,4 @@ jenkins
  jenkins trigger for github
 trigger
 job 1
+job 3
