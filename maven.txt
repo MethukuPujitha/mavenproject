@@ -5,3 +5,4 @@ demomnstrating github webhook hook
 jenkins
  jenkins trigger for github
 trigger
+job 1
